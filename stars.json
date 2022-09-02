@@ -1,25 +1,25 @@
 [
   {
+    "full_name": "lroudge/holberton-system_engineering-devops",
+    "stargazers_count": 111,
+    "open_issues_count": 2,
+    "forks_count": 315
+  },
+  {
     "full_name": "MarcelAleza1/alx-system_engineering-devops",
     "stargazers_count": 2,
     "open_issues_count": 0,
     "forks_count": 3
   },
   {
-    "full_name": "lroudge/holberton-system_engineering-devops",
-    "stargazers_count": 82,
-    "open_issues_count": 1,
-    "forks_count": 244
-  },
-  {
     "full_name": "ossu/computer-science",
-    "stargazers_count": 122576,
+    "stargazers_count": 122709,
     "open_issues_count": 8,
-    "forks_count": 16372
+    "forks_count": 16382
   },
   {
     "full_name": "sickcodes/osx-serial-generator",
-    "stargazers_count": 1314,
+    "stargazers_count": 1316,
     "open_issues_count": 7,
     "forks_count": 86
   },
@@ -37,8 +37,8 @@
   },
   {
     "full_name": "nixawk/pentest-wiki",
-    "stargazers_count": 2844,
+    "stargazers_count": 2845,
     "open_issues_count": 15,
-    "forks_count": 883
+    "forks_count": 882
   }
 ]
