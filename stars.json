@@ -1,21 +1,21 @@
 [
   {
     "full_name": "gocolly/colly",
-    "stargazers_count": 18618,
-    "open_issues_count": 158,
+    "stargazers_count": 18629,
+    "open_issues_count": 159,
     "forks_count": 1524
   },
   {
     "full_name": "google/gvisor",
-    "stargazers_count": 13391,
-    "open_issues_count": 728,
-    "forks_count": 1129
+    "stargazers_count": 13396,
+    "open_issues_count": 723,
+    "forks_count": 1130
   },
   {
     "full_name": "alex/what-happens-when",
-    "stargazers_count": 35793,
-    "open_issues_count": 329,
-    "forks_count": 2863
+    "stargazers_count": 35840,
+    "open_issues_count": 332,
+    "forks_count": 2872
   },
   {
     "full_name": "MarcelAleza1/alx-system_engineering-devops",
@@ -25,13 +25,13 @@
   },
   {
     "full_name": "ossu/computer-science",
-    "stargazers_count": 130594,
-    "open_issues_count": 17,
-    "forks_count": 17212
+    "stargazers_count": 130721,
+    "open_issues_count": 15,
+    "forks_count": 17232
   },
   {
     "full_name": "sickcodes/osx-serial-generator",
-    "stargazers_count": 1384,
+    "stargazers_count": 1385,
     "open_issues_count": 8,
     "forks_count": 101
   },
@@ -51,6 +51,6 @@
     "full_name": "nixawk/pentest-wiki",
     "stargazers_count": 2952,
     "open_issues_count": 15,
-    "forks_count": 893
+    "forks_count": 894
   }
 ]
