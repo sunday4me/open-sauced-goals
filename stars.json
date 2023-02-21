@@ -1,39 +1,39 @@
 [
   {
     "full_name": "firstcontributions/first-contributions",
-    "stargazers_count": 31550,
-    "open_issues_count": 102,
-    "forks_count": 56646
+    "stargazers_count": 31610,
+    "open_issues_count": 130,
+    "forks_count": 56770
   },
   {
     "full_name": "bitcoin/bitcoin",
-    "stargazers_count": 68239,
-    "open_issues_count": 750,
-    "forks_count": 33804
+    "stargazers_count": 68313,
+    "open_issues_count": 738,
+    "forks_count": 33824
   },
   {
     "full_name": "OffchainLabs/arbitrum",
-    "stargazers_count": 1067,
-    "open_issues_count": 95,
-    "forks_count": 586
+    "stargazers_count": 1077,
+    "open_issues_count": 96,
+    "forks_count": 588
   },
   {
     "full_name": "cosmos/relayer",
     "stargazers_count": 284,
-    "open_issues_count": 47,
+    "open_issues_count": 52,
     "forks_count": 1612
   },
   {
     "full_name": "airbytehq/airbyte",
-    "stargazers_count": 9671,
-    "open_issues_count": 4346,
-    "forks_count": 2403
+    "stargazers_count": 9706,
+    "open_issues_count": 4392,
+    "forks_count": 2417
   },
   {
     "full_name": "squidfunk/mkdocs-material",
-    "stargazers_count": 12784,
-    "open_issues_count": 30,
-    "forks_count": 2805
+    "stargazers_count": 12831,
+    "open_issues_count": 19,
+    "forks_count": 2814
   },
   {
     "full_name": "barriebyron/techcomm",
@@ -43,21 +43,21 @@
   },
   {
     "full_name": "boltdb/bolt",
-    "stargazers_count": 13413,
+    "stargazers_count": 13425,
     "open_issues_count": 84,
     "forks_count": 1433
   },
   {
     "full_name": "ardanlabs/smartcontract",
-    "stargazers_count": 29,
+    "stargazers_count": 30,
     "open_issues_count": 0,
-    "forks_count": 10
+    "forks_count": 11
   },
   {
     "full_name": "freeCodeCamp/freeCodeCamp",
-    "stargazers_count": 361361,
-    "open_issues_count": 221,
-    "forks_count": 31031
+    "stargazers_count": 361612,
+    "open_issues_count": 210,
+    "forks_count": 31076
   },
   {
     "full_name": "agence-webup/laravel-sendinblue",
@@ -68,7 +68,7 @@
   {
     "full_name": "decred/cspp",
     "stargazers_count": 30,
-    "open_issues_count": 6,
+    "open_issues_count": 5,
     "forks_count": 12
   },
   {
@@ -86,8 +86,8 @@
   {
     "full_name": "unicodeveloper/laravel-paystack",
     "stargazers_count": 517,
-    "open_issues_count": 52,
-    "forks_count": 297
+    "open_issues_count": 53,
+    "forks_count": 296
   },
   {
     "full_name": "ichtrojan/nigerian-banks",
@@ -109,15 +109,15 @@
   },
   {
     "full_name": "fyne-io/fyne",
-    "stargazers_count": 19426,
-    "open_issues_count": 506,
-    "forks_count": 1085
+    "stargazers_count": 19462,
+    "open_issues_count": 505,
+    "forks_count": 1088
   },
   {
     "full_name": "OkGoDoIt/OpenAI-API-dotnet",
-    "stargazers_count": 483,
-    "open_issues_count": 8,
-    "forks_count": 112
+    "stargazers_count": 501,
+    "open_issues_count": 10,
+    "forks_count": 118
   },
   {
     "full_name": "google/project_cartesian",
@@ -127,21 +127,21 @@
   },
   {
     "full_name": "gocolly/colly",
-    "stargazers_count": 18888,
+    "stargazers_count": 18925,
     "open_issues_count": 159,
-    "forks_count": 1549
+    "forks_count": 1551
   },
   {
     "full_name": "google/gvisor",
-    "stargazers_count": 13491,
-    "open_issues_count": 729,
-    "forks_count": 1136
+    "stargazers_count": 13500,
+    "open_issues_count": 735,
+    "forks_count": 1140
   },
   {
     "full_name": "alex/what-happens-when",
-    "stargazers_count": 36112,
-    "open_issues_count": 398,
-    "forks_count": 2978
+    "stargazers_count": 36141,
+    "open_issues_count": 397,
+    "forks_count": 2981
   },
   {
     "full_name": "MarcelAleza1/alx-system_engineering-devops",
@@ -151,9 +151,9 @@
   },
   {
     "full_name": "ossu/computer-science",
-    "stargazers_count": 134916,
-    "open_issues_count": 15,
-    "forks_count": 17514
+    "stargazers_count": 135169,
+    "open_issues_count": 16,
+    "forks_count": 17548
   },
   {
     "full_name": "sickcodes/osx-serial-generator",
@@ -177,6 +177,6 @@
     "full_name": "nixawk/pentest-wiki",
     "stargazers_count": 2984,
     "open_issues_count": 15,
-    "forks_count": 896
+    "forks_count": 897
   }
 ]
