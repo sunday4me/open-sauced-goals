@@ -1,45 +1,45 @@
 [
   {
     "full_name": "ed-roh/fullstack-admin",
-    "stargazers_count": 240,
+    "stargazers_count": 243,
     "open_issues_count": 9,
-    "forks_count": 246
+    "forks_count": 254
   },
   {
     "full_name": "firstcontributions/first-contributions",
-    "stargazers_count": 32025,
-    "open_issues_count": 209,
-    "forks_count": 57135
+    "stargazers_count": 32083,
+    "open_issues_count": 237,
+    "forks_count": 57248
   },
   {
     "full_name": "bitcoin/bitcoin",
-    "stargazers_count": 68461,
-    "open_issues_count": 715,
-    "forks_count": 33857
+    "stargazers_count": 68502,
+    "open_issues_count": 719,
+    "forks_count": 33877
   },
   {
     "full_name": "OffchainLabs/arbitrum",
-    "stargazers_count": 1482,
-    "open_issues_count": 100,
-    "forks_count": 949
+    "stargazers_count": 1504,
+    "open_issues_count": 103,
+    "forks_count": 970
   },
   {
     "full_name": "cosmos/relayer",
     "stargazers_count": 288,
-    "open_issues_count": 47,
-    "forks_count": 1610
+    "open_issues_count": 45,
+    "forks_count": 1613
   },
   {
     "full_name": "airbytehq/airbyte",
-    "stargazers_count": 9827,
-    "open_issues_count": 4407,
-    "forks_count": 2465
+    "stargazers_count": 9857,
+    "open_issues_count": 4413,
+    "forks_count": 2473
   },
   {
     "full_name": "squidfunk/mkdocs-material",
-    "stargazers_count": 12948,
-    "open_issues_count": 21,
-    "forks_count": 2831
+    "stargazers_count": 12986,
+    "open_issues_count": 16,
+    "forks_count": 2841
   },
   {
     "full_name": "barriebyron/techcomm",
@@ -49,9 +49,9 @@
   },
   {
     "full_name": "boltdb/bolt",
-    "stargazers_count": 13439,
+    "stargazers_count": 13445,
     "open_issues_count": 84,
-    "forks_count": 1432
+    "forks_count": 1434
   },
   {
     "full_name": "ardanlabs/smartcontract",
@@ -61,38 +61,38 @@
   },
   {
     "full_name": "freeCodeCamp/freeCodeCamp",
-    "stargazers_count": 362353,
-    "open_issues_count": 208,
-    "forks_count": 31228
+    "stargazers_count": 362547,
+    "open_issues_count": 211,
+    "forks_count": 31266
   },
   {
     "full_name": "agence-webup/laravel-sendinblue",
     "stargazers_count": 118,
-    "open_issues_count": 4,
+    "open_issues_count": 5,
     "forks_count": 35
   },
   {
     "full_name": "decred/cspp",
     "stargazers_count": 30,
-    "open_issues_count": 5,
+    "open_issues_count": 7,
     "forks_count": 12
   },
   {
     "full_name": "decred/dcrd",
-    "stargazers_count": 686,
-    "open_issues_count": 30,
+    "stargazers_count": 688,
+    "open_issues_count": 26,
     "forks_count": 280
   },
   {
     "full_name": "decred/dcrwallet",
-    "stargazers_count": 197,
+    "stargazers_count": 196,
     "open_issues_count": 135,
     "forks_count": 158
   },
   {
     "full_name": "unicodeveloper/laravel-paystack",
     "stargazers_count": 518,
-    "open_issues_count": 53,
+    "open_issues_count": 54,
     "forks_count": 297
   },
   {
@@ -115,15 +115,15 @@
   },
   {
     "full_name": "fyne-io/fyne",
-    "stargazers_count": 19555,
-    "open_issues_count": 508,
-    "forks_count": 1095
+    "stargazers_count": 19589,
+    "open_issues_count": 514,
+    "forks_count": 1097
   },
   {
     "full_name": "OkGoDoIt/OpenAI-API-dotnet",
-    "stargazers_count": 572,
-    "open_issues_count": 20,
-    "forks_count": 137
+    "stargazers_count": 601,
+    "open_issues_count": 22,
+    "forks_count": 141
   },
   {
     "full_name": "google/project_cartesian",
@@ -133,21 +133,21 @@
   },
   {
     "full_name": "gocolly/colly",
-    "stargazers_count": 19019,
-    "open_issues_count": 163,
+    "stargazers_count": 19050,
+    "open_issues_count": 164,
     "forks_count": 1557
   },
   {
     "full_name": "google/gvisor",
-    "stargazers_count": 13545,
-    "open_issues_count": 742,
+    "stargazers_count": 13552,
+    "open_issues_count": 732,
     "forks_count": 1147
   },
   {
     "full_name": "alex/what-happens-when",
-    "stargazers_count": 36201,
+    "stargazers_count": 36205,
     "open_issues_count": 397,
-    "forks_count": 2982
+    "forks_count": 2985
   },
   {
     "full_name": "MarcelAleza1/alx-system_engineering-devops",
@@ -157,15 +157,15 @@
   },
   {
     "full_name": "ossu/computer-science",
-    "stargazers_count": 135808,
+    "stargazers_count": 136021,
     "open_issues_count": 16,
-    "forks_count": 17640
+    "forks_count": 17651
   },
   {
     "full_name": "sickcodes/osx-serial-generator",
-    "stargazers_count": 1412,
+    "stargazers_count": 1411,
     "open_issues_count": 8,
-    "forks_count": 107
+    "forks_count": 109
   },
   {
     "full_name": "gunk/gunk",
