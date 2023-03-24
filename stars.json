@@ -1,33 +1,33 @@
 [
   {
     "full_name": "appwrite/appwrite",
-    "stargazers_count": 29912,
-    "open_issues_count": 662,
-    "forks_count": 2520
+    "stargazers_count": 29969,
+    "open_issues_count": 656,
+    "forks_count": 2523
   },
   {
     "full_name": "brianvoe/gofakeit",
-    "stargazers_count": 2946,
+    "stargazers_count": 2950,
     "open_issues_count": 6,
-    "forks_count": 178
+    "forks_count": 177
   },
   {
     "full_name": "dgrijalva/jwt-go",
-    "stargazers_count": 10580,
+    "stargazers_count": 10583,
     "open_issues_count": 139,
-    "forks_count": 1018
+    "forks_count": 1017
   },
   {
     "full_name": "HousewareHQ/backend-engineering-octernship",
     "stargazers_count": 25,
-    "open_issues_count": 4,
+    "open_issues_count": 6,
     "forks_count": 8
   },
   {
     "full_name": "goldbergyoni/nodebestpractices",
-    "stargazers_count": 87299,
-    "open_issues_count": 37,
-    "forks_count": 9039
+    "stargazers_count": 87400,
+    "open_issues_count": 36,
+    "forks_count": 9051
   },
   {
     "full_name": "kryz81/awesome-nodejs-learning",
@@ -37,15 +37,15 @@
   },
   {
     "full_name": "GoesToEleven/GolangTraining",
-    "stargazers_count": 8836,
+    "stargazers_count": 8842,
     "open_issues_count": 44,
-    "forks_count": 3365
+    "forks_count": 3364
   },
   {
     "full_name": "golang/go",
-    "stargazers_count": 109509,
-    "open_issues_count": 8260,
-    "forks_count": 16035
+    "stargazers_count": 109595,
+    "open_issues_count": 8257,
+    "forks_count": 16058
   },
   {
     "full_name": "tangpanqing/aorm",
@@ -54,52 +54,46 @@
     "forks_count": 11
   },
   {
-    "full_name": "FulgurCode/school-management-system-backend",
-    "stargazers_count": 2,
-    "open_issues_count": 0,
-    "forks_count": 1
-  },
-  {
     "full_name": "ed-roh/fullstack-admin",
-    "stargazers_count": 266,
+    "stargazers_count": 269,
     "open_issues_count": 9,
-    "forks_count": 284
+    "forks_count": 290
   },
   {
     "full_name": "firstcontributions/first-contributions",
-    "stargazers_count": 32443,
-    "open_issues_count": 345,
-    "forks_count": 57855
+    "stargazers_count": 32517,
+    "open_issues_count": 361,
+    "forks_count": 57968
   },
   {
     "full_name": "bitcoin/bitcoin",
-    "stargazers_count": 68690,
-    "open_issues_count": 683,
-    "forks_count": 33950
+    "stargazers_count": 68725,
+    "open_issues_count": 678,
+    "forks_count": 33978
   },
   {
     "full_name": "OffchainLabs/arbitrum",
-    "stargazers_count": 1540,
+    "stargazers_count": 1551,
     "open_issues_count": 103,
-    "forks_count": 983
+    "forks_count": 993
   },
   {
     "full_name": "cosmos/relayer",
     "stargazers_count": 288,
-    "open_issues_count": 52,
-    "forks_count": 1624
+    "open_issues_count": 58,
+    "forks_count": 1625
   },
   {
     "full_name": "airbytehq/airbyte",
-    "stargazers_count": 10025,
-    "open_issues_count": 4384,
-    "forks_count": 2513
+    "stargazers_count": 10059,
+    "open_issues_count": 4383,
+    "forks_count": 2525
   },
   {
     "full_name": "squidfunk/mkdocs-material",
-    "stargazers_count": 13131,
-    "open_issues_count": 19,
-    "forks_count": 2857
+    "stargazers_count": 13171,
+    "open_issues_count": 21,
+    "forks_count": 2867
   },
   {
     "full_name": "barriebyron/techcomm",
@@ -109,9 +103,9 @@
   },
   {
     "full_name": "boltdb/bolt",
-    "stargazers_count": 13472,
+    "stargazers_count": 13480,
     "open_issues_count": 84,
-    "forks_count": 1439
+    "forks_count": 1440
   },
   {
     "full_name": "ardanlabs/smartcontract",
@@ -121,9 +115,9 @@
   },
   {
     "full_name": "freeCodeCamp/freeCodeCamp",
-    "stargazers_count": 363323,
-    "open_issues_count": 223,
-    "forks_count": 31419
+    "stargazers_count": 363499,
+    "open_issues_count": 208,
+    "forks_count": 31453
   },
   {
     "full_name": "agence-webup/laravel-sendinblue",
@@ -146,7 +140,7 @@
   {
     "full_name": "decred/dcrwallet",
     "stargazers_count": 196,
-    "open_issues_count": 133,
+    "open_issues_count": 132,
     "forks_count": 158
   },
   {
@@ -175,8 +169,14 @@
   },
   {
     "full_name": "fyne-io/fyne",
-    "stargazers_count": 19758,
-    "open_issues_count": 508,
-    "forks_count": 1102
+    "stargazers_count": 19790,
+    "open_issues_count": 511,
+    "forks_count": 1105
+  },
+  {
+    "full_name": "OkGoDoIt/OpenAI-API-dotnet",
+    "stargazers_count": 783,
+    "open_issues_count": 36,
+    "forks_count": 181
   }
 ]
