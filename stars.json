@@ -1,9 +1,9 @@
 [
   {
     "full_name": "scrimba/learn-javascript",
-    "stargazers_count": 474,
+    "stargazers_count": 475,
     "open_issues_count": 15,
-    "forks_count": 936
+    "forks_count": 939
   },
   {
     "full_name": "tyaga001/Awesome-Companies-Who-Pays-Technical-Writers",
@@ -15,109 +15,109 @@
     "full_name": "joncalhoun/algorithmswithgo.com",
     "stargazers_count": 231,
     "open_issues_count": 5,
-    "forks_count": 182
+    "forks_count": 183
   },
   {
     "full_name": "flawiddsouza/Restfox",
-    "stargazers_count": 1111,
+    "stargazers_count": 1115,
     "open_issues_count": 10,
     "forks_count": 47
   },
   {
     "full_name": "appwrite/appwrite",
-    "stargazers_count": 30683,
-    "open_issues_count": 679,
-    "forks_count": 2599
+    "stargazers_count": 30745,
+    "open_issues_count": 691,
+    "forks_count": 2606
   },
   {
     "full_name": "brianvoe/gofakeit",
-    "stargazers_count": 3010,
+    "stargazers_count": 3019,
     "open_issues_count": 8,
-    "forks_count": 181
+    "forks_count": 182
   },
   {
     "full_name": "dgrijalva/jwt-go",
-    "stargazers_count": 10594,
+    "stargazers_count": 10600,
     "open_issues_count": 139,
-    "forks_count": 1018
+    "forks_count": 1017
   },
   {
     "full_name": "HousewareHQ/backend-engineering-octernship",
     "stargazers_count": 24,
     "open_issues_count": 13,
-    "forks_count": 15
+    "forks_count": 14
   },
   {
     "full_name": "goldbergyoni/nodebestpractices",
-    "stargazers_count": 88704,
-    "open_issues_count": 43,
-    "forks_count": 9170
+    "stargazers_count": 88732,
+    "open_issues_count": 39,
+    "forks_count": 9181
   },
   {
     "full_name": "kryz81/awesome-nodejs-learning",
-    "stargazers_count": 372,
+    "stargazers_count": 374,
     "open_issues_count": 4,
     "forks_count": 54
   },
   {
     "full_name": "GoesToEleven/GolangTraining",
-    "stargazers_count": 8881,
+    "stargazers_count": 8890,
     "open_issues_count": 45,
-    "forks_count": 3369
+    "forks_count": 3370
   },
   {
     "full_name": "golang/go",
-    "stargazers_count": 110418,
-    "open_issues_count": 8293,
-    "forks_count": 16290
+    "stargazers_count": 110530,
+    "open_issues_count": 8304,
+    "forks_count": 16335
   },
   {
     "full_name": "tangpanqing/aorm",
-    "stargazers_count": 111,
+    "stargazers_count": 113,
     "open_issues_count": 2,
     "forks_count": 11
   },
   {
     "full_name": "ed-roh/fullstack-admin",
-    "stargazers_count": 291,
+    "stargazers_count": 301,
     "open_issues_count": 9,
-    "forks_count": 339
+    "forks_count": 342
   },
   {
     "full_name": "firstcontributions/first-contributions",
-    "stargazers_count": 33043,
-    "open_issues_count": 213,
-    "forks_count": 58899
+    "stargazers_count": 33108,
+    "open_issues_count": 117,
+    "forks_count": 59037
   },
   {
     "full_name": "bitcoin/bitcoin",
-    "stargazers_count": 69123,
+    "stargazers_count": 69164,
     "open_issues_count": 684,
-    "forks_count": 34086
+    "forks_count": 34099
   },
   {
     "full_name": "OffchainLabs/arbitrum",
-    "stargazers_count": 1589,
+    "stargazers_count": 1597,
     "open_issues_count": 105,
-    "forks_count": 1021
+    "forks_count": 1024
   },
   {
     "full_name": "cosmos/relayer",
     "stargazers_count": 293,
-    "open_issues_count": 60,
+    "open_issues_count": 58,
     "forks_count": 1626
   },
   {
     "full_name": "airbytehq/airbyte",
-    "stargazers_count": 10271,
-    "open_issues_count": 4444,
-    "forks_count": 2606
+    "stargazers_count": 10305,
+    "open_issues_count": 4423,
+    "forks_count": 2614
   },
   {
     "full_name": "squidfunk/mkdocs-material",
-    "stargazers_count": 13469,
-    "open_issues_count": 32,
-    "forks_count": 2935
+    "stargazers_count": 13499,
+    "open_issues_count": 25,
+    "forks_count": 2939
   },
   {
     "full_name": "barriebyron/techcomm",
@@ -127,21 +127,21 @@
   },
   {
     "full_name": "boltdb/bolt",
-    "stargazers_count": 13524,
+    "stargazers_count": 13529,
     "open_issues_count": 84,
-    "forks_count": 1449
+    "forks_count": 1450
   },
   {
     "full_name": "ardanlabs/smartcontract",
-    "stargazers_count": 32,
+    "stargazers_count": 33,
     "open_issues_count": 0,
     "forks_count": 12
   },
   {
     "full_name": "freeCodeCamp/freeCodeCamp",
-    "stargazers_count": 364592,
-    "open_issues_count": 195,
-    "forks_count": 31693
+    "stargazers_count": 364708,
+    "open_issues_count": 184,
+    "forks_count": 31720
   },
   {
     "full_name": "agence-webup/laravel-sendinblue",
@@ -169,7 +169,7 @@
   },
   {
     "full_name": "unicodeveloper/laravel-paystack",
-    "stargazers_count": 527,
+    "stargazers_count": 528,
     "open_issues_count": 53,
     "forks_count": 302
   },
