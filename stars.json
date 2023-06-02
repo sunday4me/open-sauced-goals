@@ -1,63 +1,63 @@
 [
   {
     "full_name": "OptimalBits/bull",
-    "stargazers_count": 14021,
-    "open_issues_count": 177,
+    "stargazers_count": 14033,
+    "open_issues_count": 175,
     "forks_count": 1456
   },
   {
     "full_name": "Automattic/kue",
-    "stargazers_count": 9395,
+    "stargazers_count": 9394,
     "open_issues_count": 288,
     "forks_count": 899
   },
   {
     "full_name": "redis/node-redis",
-    "stargazers_count": 16190,
-    "open_issues_count": 210,
-    "forks_count": 1801
+    "stargazers_count": 16193,
+    "open_issues_count": 212,
+    "forks_count": 1802
   },
   {
     "full_name": "sinonjs/sinon",
-    "stargazers_count": 9329,
-    "open_issues_count": 39,
-    "forks_count": 811
+    "stargazers_count": 9328,
+    "open_issues_count": 41,
+    "forks_count": 812
   },
   {
     "full_name": "remy/nodemon",
-    "stargazers_count": 25247,
+    "stargazers_count": 25260,
     "open_issues_count": 12,
-    "forks_count": 1715
+    "forks_count": 1716
   },
   {
     "full_name": "nodejs/examples",
-    "stargazers_count": 287,
+    "stargazers_count": 291,
     "open_issues_count": 25,
-    "forks_count": 212
+    "forks_count": 214
   },
   {
     "full_name": "CoreyMSchafer/code_snippets",
-    "stargazers_count": 9773,
+    "stargazers_count": 9780,
     "open_issues_count": 111,
-    "forks_count": 17729
+    "forks_count": 17731
   },
   {
     "full_name": "pyca/bcrypt",
     "stargazers_count": 1014,
-    "open_issues_count": 6,
+    "open_issues_count": 5,
     "forks_count": 143
   },
   {
     "full_name": "scrimba/learn-javascript",
     "stargazers_count": 493,
     "open_issues_count": 16,
-    "forks_count": 972
+    "forks_count": 978
   },
   {
     "full_name": "tyaga001/Awesome-Companies-Who-Pays-Technical-Writers",
-    "stargazers_count": 124,
-    "open_issues_count": 0,
-    "forks_count": 9
+    "stargazers_count": 125,
+    "open_issues_count": 1,
+    "forks_count": 10
   },
   {
     "full_name": "joncalhoun/algorithmswithgo.com",
@@ -67,21 +67,21 @@
   },
   {
     "full_name": "flawiddsouza/Restfox",
-    "stargazers_count": 1175,
+    "stargazers_count": 1177,
     "open_issues_count": 10,
     "forks_count": 49
   },
   {
     "full_name": "appwrite/appwrite",
-    "stargazers_count": 31457,
-    "open_issues_count": 741,
-    "forks_count": 2694
+    "stargazers_count": 31497,
+    "open_issues_count": 751,
+    "forks_count": 2699
   },
   {
     "full_name": "brianvoe/gofakeit",
-    "stargazers_count": 3093,
+    "stargazers_count": 3098,
     "open_issues_count": 8,
-    "forks_count": 187
+    "forks_count": 188
   },
   {
     "full_name": "dgrijalva/jwt-go",
@@ -97,9 +97,9 @@
   },
   {
     "full_name": "goldbergyoni/nodebestpractices",
-    "stargazers_count": 89467,
-    "open_issues_count": 47,
-    "forks_count": 9247
+    "stargazers_count": 89531,
+    "open_issues_count": 48,
+    "forks_count": 9260
   },
   {
     "full_name": "kryz81/awesome-nodejs-learning",
@@ -109,62 +109,62 @@
   },
   {
     "full_name": "GoesToEleven/GolangTraining",
-    "stargazers_count": 8953,
+    "stargazers_count": 8958,
     "open_issues_count": 45,
-    "forks_count": 3384
+    "forks_count": 3385
   },
   {
     "full_name": "golang/go",
-    "stargazers_count": 111694,
-    "open_issues_count": 8330,
-    "forks_count": 16595
+    "stargazers_count": 111792,
+    "open_issues_count": 8351,
+    "forks_count": 16598
   },
   {
     "full_name": "tangpanqing/aorm",
-    "stargazers_count": 122,
+    "stargazers_count": 123,
     "open_issues_count": 0,
     "forks_count": 13
   },
   {
     "full_name": "ed-roh/fullstack-admin",
-    "stargazers_count": 341,
+    "stargazers_count": 343,
     "open_issues_count": 13,
     "forks_count": 372
   },
   {
     "full_name": "firstcontributions/first-contributions",
-    "stargazers_count": 33924,
-    "open_issues_count": 257,
-    "forks_count": 60380
+    "stargazers_count": 33996,
+    "open_issues_count": 355,
+    "forks_count": 60480
   },
   {
     "full_name": "bitcoin/bitcoin",
-    "stargazers_count": 69739,
-    "open_issues_count": 636,
-    "forks_count": 34288
+    "stargazers_count": 69778,
+    "open_issues_count": 632,
+    "forks_count": 34300
   },
   {
     "full_name": "OffchainLabs/arbitrum-classic",
     "stargazers_count": 1617,
     "open_issues_count": 69,
-    "forks_count": 1067
+    "forks_count": 1073
   },
   {
     "full_name": "cosmos/relayer",
-    "stargazers_count": 303,
-    "open_issues_count": 70,
-    "forks_count": 1644
+    "stargazers_count": 304,
+    "open_issues_count": 72,
+    "forks_count": 1646
   },
   {
     "full_name": "airbytehq/airbyte",
-    "stargazers_count": 10733,
-    "open_issues_count": 4623,
-    "forks_count": 2749
+    "stargazers_count": 10771,
+    "open_issues_count": 4657,
+    "forks_count": 2760
   },
   {
     "full_name": "squidfunk/mkdocs-material",
-    "stargazers_count": 14008,
-    "open_issues_count": 24,
+    "stargazers_count": 14056,
+    "open_issues_count": 23,
     "forks_count": 2980
   },
   {
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "boltdb/bolt",
-    "stargazers_count": 13581,
+    "stargazers_count": 13585,
     "open_issues_count": 84,
-    "forks_count": 1461
+    "forks_count": 1462
   }
 ]
