@@ -1,14 +1,20 @@
 [
   {
+    "full_name": "geekan/MetaGPT",
+    "stargazers_count": 21983,
+    "open_issues_count": 114,
+    "forks_count": 2417
+  },
+  {
     "full_name": "paularmstrong/normalizr",
-    "stargazers_count": 20986,
+    "stargazers_count": 20985,
     "open_issues_count": 22,
     "forks_count": 903
   },
   {
     "full_name": "immutable-js/immutable-js",
-    "stargazers_count": 32678,
-    "open_issues_count": 122,
+    "stargazers_count": 32683,
+    "open_issues_count": 121,
     "forks_count": 1866
   },
   {
@@ -19,9 +25,9 @@
   },
   {
     "full_name": "facebook/create-react-app",
-    "stargazers_count": 100544,
+    "stargazers_count": 100570,
     "open_issues_count": 2087,
-    "forks_count": 26617
+    "forks_count": 26631
   },
   {
     "full_name": "javascriptdata/Data-aRT",
@@ -31,21 +37,21 @@
   },
   {
     "full_name": "golang/protobuf",
-    "stargazers_count": 9203,
-    "open_issues_count": 91,
-    "forks_count": 1601
+    "stargazers_count": 9206,
+    "open_issues_count": 92,
+    "forks_count": 1602
   },
   {
     "full_name": "codebangkok/golang",
     "stargazers_count": 131,
     "open_issues_count": 2,
-    "forks_count": 51
+    "forks_count": 52
   },
   {
     "full_name": "grpc/grpc-go",
-    "stargazers_count": 18607,
-    "open_issues_count": 124,
-    "forks_count": 4099
+    "stargazers_count": 18630,
+    "open_issues_count": 129,
+    "forks_count": 4104
   },
   {
     "full_name": "NerdCademyDev/goly",
@@ -55,15 +61,15 @@
   },
   {
     "full_name": "sirupsen/logrus",
-    "stargazers_count": 23091,
-    "open_issues_count": 69,
-    "forks_count": 2265
+    "stargazers_count": 23107,
+    "open_issues_count": 68,
+    "forks_count": 2267
   },
   {
     "full_name": "OptimalBits/bull",
-    "stargazers_count": 14285,
-    "open_issues_count": 172,
-    "forks_count": 1469
+    "stargazers_count": 14298,
+    "open_issues_count": 174,
+    "forks_count": 1470
   },
   {
     "full_name": "Automattic/kue",
@@ -73,37 +79,37 @@
   },
   {
     "full_name": "redis/node-redis",
-    "stargazers_count": 16325,
-    "open_issues_count": 259,
+    "stargazers_count": 16332,
+    "open_issues_count": 263,
     "forks_count": 1817
   },
   {
     "full_name": "sinonjs/sinon",
-    "stargazers_count": 9408,
+    "stargazers_count": 9410,
     "open_issues_count": 42,
-    "forks_count": 818
+    "forks_count": 819
   },
   {
     "full_name": "remy/nodemon",
-    "stargazers_count": 25443,
+    "stargazers_count": 25445,
     "open_issues_count": 10,
-    "forks_count": 1718
+    "forks_count": 1719
   },
   {
     "full_name": "nodejs/examples",
-    "stargazers_count": 352,
+    "stargazers_count": 354,
     "open_issues_count": 25,
-    "forks_count": 233
+    "forks_count": 240
   },
   {
     "full_name": "CoreyMSchafer/code_snippets",
-    "stargazers_count": 9892,
+    "stargazers_count": 9900,
     "open_issues_count": 114,
-    "forks_count": 17730
+    "forks_count": 17729
   },
   {
     "full_name": "pyca/bcrypt",
-    "stargazers_count": 1037,
+    "stargazers_count": 1038,
     "open_issues_count": 5,
     "forks_count": 151
   },
@@ -111,43 +117,43 @@
     "full_name": "scrimba/learn-javascript",
     "stargazers_count": 521,
     "open_issues_count": 20,
-    "forks_count": 1013
+    "forks_count": 1015
   },
   {
     "full_name": "tyaga001/Awesome-Companies-Who-Pays-Technical-Writers",
-    "stargazers_count": 132,
+    "stargazers_count": 147,
     "open_issues_count": 0,
-    "forks_count": 12
+    "forks_count": 14
   },
   {
     "full_name": "joncalhoun/algorithmswithgo.com",
     "stargazers_count": 240,
     "open_issues_count": 5,
-    "forks_count": 192
+    "forks_count": 195
   },
   {
     "full_name": "flawiddsouza/Restfox",
-    "stargazers_count": 1269,
-    "open_issues_count": 14,
+    "stargazers_count": 1278,
+    "open_issues_count": 18,
     "forks_count": 60
   },
   {
     "full_name": "appwrite/appwrite",
-    "stargazers_count": 32686,
-    "open_issues_count": 794,
-    "forks_count": 2908
+    "stargazers_count": 32718,
+    "open_issues_count": 802,
+    "forks_count": 2914
   },
   {
     "full_name": "brianvoe/gofakeit",
-    "stargazers_count": 3234,
+    "stargazers_count": 3240,
     "open_issues_count": 8,
-    "forks_count": 203
+    "forks_count": 204
   },
   {
     "full_name": "dgrijalva/jwt-go",
-    "stargazers_count": 10656,
+    "stargazers_count": 10659,
     "open_issues_count": 139,
-    "forks_count": 1021
+    "forks_count": 1024
   },
   {
     "full_name": "HousewareHQ/backend-engineering-octernship",
@@ -157,26 +163,20 @@
   },
   {
     "full_name": "goldbergyoni/nodebestpractices",
-    "stargazers_count": 92200,
-    "open_issues_count": 55,
-    "forks_count": 9521
+    "stargazers_count": 92265,
+    "open_issues_count": 56,
+    "forks_count": 9533
   },
   {
     "full_name": "kryz81/awesome-nodejs-learning",
     "stargazers_count": 404,
     "open_issues_count": 4,
-    "forks_count": 64
+    "forks_count": 67
   },
   {
     "full_name": "GoesToEleven/GolangTraining",
-    "stargazers_count": 9101,
+    "stargazers_count": 9108,
     "open_issues_count": 45,
-    "forks_count": 3459
-  },
-  {
-    "full_name": "golang/go",
-    "stargazers_count": 113588,
-    "open_issues_count": 8640,
-    "forks_count": 16982
+    "forks_count": 3463
   }
 ]
