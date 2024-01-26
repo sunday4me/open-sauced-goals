@@ -1,15 +1,15 @@
 [
   {
     "full_name": "jgraph/drawio-desktop",
-    "stargazers_count": 45046,
-    "open_issues_count": 153,
-    "forks_count": 4668
+    "stargazers_count": 45102,
+    "open_issues_count": 156,
+    "forks_count": 4672
   },
   {
     "full_name": "sashabaranov/go-openai",
-    "stargazers_count": 7568,
-    "open_issues_count": 75,
-    "forks_count": 1123
+    "stargazers_count": 7598,
+    "open_issues_count": 79,
+    "forks_count": 1129
   },
   {
     "full_name": "iden3/go-iden3-crypto",
@@ -19,33 +19,33 @@
   },
   {
     "full_name": "kubeshark/kubeshark",
-    "stargazers_count": 10236,
-    "open_issues_count": 131,
+    "stargazers_count": 10248,
+    "open_issues_count": 133,
     "forks_count": 424
   },
   {
     "full_name": "graphql/graphql-spec",
-    "stargazers_count": 14174,
-    "open_issues_count": 209,
+    "stargazers_count": 14171,
+    "open_issues_count": 210,
     "forks_count": 1206
   },
   {
     "full_name": "facebook/relay",
-    "stargazers_count": 18094,
-    "open_issues_count": 618,
-    "forks_count": 1880
+    "stargazers_count": 18090,
+    "open_issues_count": 620,
+    "forks_count": 1878
   },
   {
     "full_name": "jestjs/jest",
-    "stargazers_count": 43236,
-    "open_issues_count": 394,
-    "forks_count": 6581
+    "stargazers_count": 43242,
+    "open_issues_count": 397,
+    "forks_count": 6583
   },
   {
     "full_name": "reduxjs/redux",
-    "stargazers_count": 60225,
+    "stargazers_count": 60229,
     "open_issues_count": 47,
-    "forks_count": 15475
+    "forks_count": 15477
   },
   {
     "full_name": "datasciencescoop/Data-Science-Tutorials",
@@ -73,39 +73,39 @@
   },
   {
     "full_name": "AlexTheAnalyst/Excel-Tutorial",
-    "stargazers_count": 203,
+    "stargazers_count": 204,
     "open_issues_count": 6,
-    "forks_count": 141
+    "forks_count": 140
   },
   {
     "full_name": "geekan/MetaGPT",
-    "stargazers_count": 33603,
-    "open_issues_count": 194,
-    "forks_count": 3994
+    "stargazers_count": 33718,
+    "open_issues_count": 199,
+    "forks_count": 4008
   },
   {
     "full_name": "paularmstrong/normalizr",
-    "stargazers_count": 20990,
+    "stargazers_count": 20992,
     "open_issues_count": 22,
     "forks_count": 908
   },
   {
     "full_name": "immutable-js/immutable-js",
-    "stargazers_count": 32797,
+    "stargazers_count": 32798,
     "open_issues_count": 119,
-    "forks_count": 1874
+    "forks_count": 1873
   },
   {
     "full_name": "Khan/aphrodite",
-    "stargazers_count": 5336,
+    "stargazers_count": 5335,
     "open_issues_count": 93,
     "forks_count": 226
   },
   {
     "full_name": "facebook/create-react-app",
-    "stargazers_count": 101443,
-    "open_issues_count": 2153,
-    "forks_count": 26934
+    "stargazers_count": 101465,
+    "open_issues_count": 2152,
+    "forks_count": 26935
   },
   {
     "full_name": "javascriptdata/Data-aRT",
@@ -115,9 +115,9 @@
   },
   {
     "full_name": "golang/protobuf",
-    "stargazers_count": 9423,
-    "open_issues_count": 95,
-    "forks_count": 1651
+    "stargazers_count": 9427,
+    "open_issues_count": 96,
+    "forks_count": 1652
   },
   {
     "full_name": "codebangkok/golang",
@@ -127,56 +127,56 @@
   },
   {
     "full_name": "grpc/grpc-go",
-    "stargazers_count": 19437,
+    "stargazers_count": 19453,
     "open_issues_count": 127,
-    "forks_count": 4239
+    "forks_count": 4241
   },
   {
     "full_name": "sirupsen/logrus",
-    "stargazers_count": 23713,
-    "open_issues_count": 71,
-    "forks_count": 2331
+    "stargazers_count": 23728,
+    "open_issues_count": 72,
+    "forks_count": 2332
   },
   {
     "full_name": "OptimalBits/bull",
-    "stargazers_count": 14789,
+    "stargazers_count": 14802,
     "open_issues_count": 164,
-    "forks_count": 1498
+    "forks_count": 1499
   },
   {
     "full_name": "Automattic/kue",
-    "stargazers_count": 9424,
+    "stargazers_count": 9429,
     "open_issues_count": 287,
     "forks_count": 896
   },
   {
     "full_name": "redis/node-redis",
-    "stargazers_count": 16555,
-    "open_issues_count": 283,
+    "stargazers_count": 16559,
+    "open_issues_count": 284,
     "forks_count": 1849
   },
   {
     "full_name": "sinonjs/sinon",
-    "stargazers_count": 9502,
+    "stargazers_count": 9507,
     "open_issues_count": 43,
     "forks_count": 858
   },
   {
     "full_name": "remy/nodemon",
-    "stargazers_count": 25821,
-    "open_issues_count": 12,
+    "stargazers_count": 25828,
+    "open_issues_count": 11,
     "forks_count": 1755
   },
   {
     "full_name": "nodejs/examples",
-    "stargazers_count": 473,
+    "stargazers_count": 479,
     "open_issues_count": 26,
-    "forks_count": 286
+    "forks_count": 288
   },
   {
     "full_name": "CoreyMSchafer/code_snippets",
-    "stargazers_count": 10119,
+    "stargazers_count": 10130,
     "open_issues_count": 115,
-    "forks_count": 17697
+    "forks_count": 17694
   }
 ]
